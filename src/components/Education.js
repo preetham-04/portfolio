@@ -30,7 +30,7 @@ const Education = () => {
   ];
 
   const membership = {
-    title: 'IT Undergraduate',
+    title: 'IT Graduate',
     organization: 'Vignan Institute of Technology and Science',
     icon: '🏛️'
   };
