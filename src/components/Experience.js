@@ -7,7 +7,7 @@ const Experience = () => {
     {
       title: 'AI Automation Intern',
       company: 'Professional Internship',
-      period: '2024',
+      period: '2025',
       icon: '🤖',
       color: '#ff6b35',
       responsibilities: [
