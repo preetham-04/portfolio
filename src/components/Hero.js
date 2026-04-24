@@ -66,7 +66,7 @@ const Hero = ({ setActiveSection }) => {
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.5 }}
         >
-          IT Undergraduate | AI & Automation Enthusiast
+          IT Graduate | AI & Automation Enthusiast
         </motion.p>
 
         <motion.div
